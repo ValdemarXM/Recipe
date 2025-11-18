@@ -1,2 +1,2 @@
 # Guacamole recipe
-used inteaching git
+used in teaching git
